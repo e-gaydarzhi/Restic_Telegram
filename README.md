@@ -9,7 +9,7 @@
 //                                                                                             
 //                                                                                                     
 ────────────────────────────────────────────────────────────
-        Restic Telegram Console Notifier [Win64]
+        Restic Telegram Console Notifier [Win]
 ────────────────────────────────────────────────────────────
 
 [>] Console utility to send Telegram alerts for failed backups
