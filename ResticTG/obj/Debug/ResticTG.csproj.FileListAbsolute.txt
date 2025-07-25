@@ -1,0 +1,7 @@
+D:\Work\Projects\ResticTG\ResticTG\obj\Debug\ResticTG.csproj.AssemblyReference.cache
+D:\Work\Projects\ResticTG\ResticTG\obj\Debug\ResticTG.csproj.CoreCompileInputs.cache
+D:\Work\Projects\ResticTG\ResticTG\bin\Debug\Restic Telegram.exe.config
+D:\Work\Projects\ResticTG\ResticTG\bin\Debug\Restic Telegram.exe
+D:\Work\Projects\ResticTG\ResticTG\bin\Debug\Restic Telegram.pdb
+D:\Work\Projects\ResticTG\ResticTG\obj\Debug\Restic Telegram.exe
+D:\Work\Projects\ResticTG\ResticTG\obj\Debug\Restic Telegram.pdb
